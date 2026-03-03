@@ -13,6 +13,7 @@ This project is a "Magazine Editorial" style data analysis. I explored the Billb
 ## 📊 How to View
 1. Open the `rollingbeats_melina.ipynb` file directly here on GitHub to see the charts and the editorial layout.
 2. The raw data used for the analysis can be found in the `/data` folder.
+3. [tl;dr: view just the 'editorial' here](https://htmlpreview.github.io/?https://github.com/StatCat14/greatest-song-in-the-world/blob/main/RollingBeats_Editorial.html)
 
 ---
 Enjoy!
