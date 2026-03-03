@@ -1,4 +1,4 @@
-# 👑 Rolling Beats: The Soul-Saving Index
+# 👑 Rolling Beats: The Greatest Song in the World
 ### A Billboard Hot 100 Analysis (2000-2024) using Tenacious D's 'Tribute' to tell the story
 
 ## 📖 The Project
